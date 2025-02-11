@@ -11,7 +11,7 @@ I’m passionate about solving complex **data challenges**, ensuring high-perfor
 
 🌐 **Web Development:** JavaScript ,AJAX, JQuery, HTML, CSS, BootStrap, NGINX
 
-📦 **Data Warehouses:** Hive, BigQuery, AWS Redshift
+📦 **Data Warehouses:** Hive, Snowflake, BigQuery, AWS Redshift
 
 🔄 **Message Queue:** Confluent Kafka
 
@@ -20,6 +20,8 @@ I’m passionate about solving complex **data challenges**, ensuring high-perfor
 ⚙️ **Workflow Management:** Airflow
 
 ☁️ **AWS Services:** EventBridge Scheduler, EventBridge Pipe, Kinesis, Kinesis Firehose, DynamoDB, SNS, SQS, S3, Lambda, IAM, CloudWatch, EC2, Step Functions, EMR, Glue, RDS, Athena, Redshift, Route53
+
+📊 **Data Analytics & Machine Learning Platform:** Dataiku DSS, Databricks
 
 🔨 **Build Tools & Containers:** Jenkins, Docker, Kubernetes
 
