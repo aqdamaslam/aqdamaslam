@@ -51,4 +51,4 @@ I’m passionate about solving complex **data challenges**, ensuring high-perfor
 📜 **Research Paper:** [![Research Paper](https://img.shields.io/badge/Portfolio-%230000ff.svg?style=flat&logo=firefox&logoColor=white)](https://www.researchgate.net/publication/378553356_Reducing_stock_market_settlement_days_using_blockchain)   (https://www.researchgate.net/publication/378553356_Reducing_stock_market_settlement_days_using_blockchain)
 
 
-- ⚡ Fun fact: ... Github Ghosted User
+- ⚡ Fun fact: ... Github Ghosted User 😄 
